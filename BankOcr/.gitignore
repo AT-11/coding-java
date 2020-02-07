@@ -23,6 +23,7 @@
 *.idea
 
 # Gradle File
+.gradle/
 gradle/*
 gradlew
 gradlew.bat
