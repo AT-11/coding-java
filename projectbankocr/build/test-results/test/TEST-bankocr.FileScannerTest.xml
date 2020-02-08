@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="bankocr.FileScannerTest" tests="12" skipped="0" failures="0" errors="0" timestamp="2020-02-08T08:16:01" hostname="DESKTOP-2T89DER" time="0.064">
+  <properties/>
+  <testcase name="scanFile_fileNumbers666666666_666666666" classname="bankocr.FileScannerTest" time="0.028"/>
+  <testcase name="scanFile_fileNumbers222222222_222222222" classname="bankocr.FileScannerTest" time="0.008"/>
+  <testcase name="scanFile_fileNumbers88888888_88888888" classname="bankocr.FileScannerTest" time="0.004"/>
+  <testcase name="scanFile_fileNumbers999999999_999999999" classname="bankocr.FileScannerTest" time="0.003"/>
+  <testcase name="scanFile_fileNumbers555555555_555555555" classname="bankocr.FileScannerTest" time="0.001"/>
+  <testcase name="scanFile_fileNumbers111111111_111111111" classname="bankocr.FileScannerTest" time="0.001"/>
+  <testcase name="verify_ifFileExist_true" classname="bankocr.FileScannerTest" time="0.0"/>
+  <testcase name="scanFile_fileNumbers123456789_123456789" classname="bankocr.FileScannerTest" time="0.002"/>
+  <testcase name="scanFile_fileNumbers444444444_444444444" classname="bankocr.FileScannerTest" time="0.001"/>
+  <testcase name="scanFile_fileNumbers000000000_000000000" classname="bankocr.FileScannerTest" time="0.003"/>
+  <testcase name="scanFile_fileNumbers777777777_777777777" classname="bankocr.FileScannerTest" time="0.002"/>
+  <testcase name="scanFile_fileNumbers333333333_333333333" classname="bankocr.FileScannerTest" time="0.003"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
